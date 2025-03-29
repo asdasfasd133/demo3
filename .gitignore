@@ -33,4 +33,4 @@ build/
 .vscode/
 
 
-aa.txt
+*.txt
